@@ -1,9 +1,5 @@
-# VHDL Collection
-A tiny VHDL cookbook written in order to get "Calcolatori Elettronici" exam at UniCT
+# VHDL & EduMips Collection
+A tiny VHDL & EduMips cookbook written in order to get "Calcolatori Elettronici" exam at UniCT.
 
-# File Description
-"compiti_di_esame" folder contains solutions of previous VHDL exam texts.
-
-
-
-## Enjoy this shitty language with shitty (by design) formatting style
+In "vdhl" or "edumips" folders there are one file relative one exam text; filename refers to the exam date.
+This repo cointains my solutions to the exam quest.
