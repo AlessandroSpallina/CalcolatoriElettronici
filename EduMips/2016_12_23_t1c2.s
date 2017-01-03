@@ -1,4 +1,5 @@
 ; Copyright (C) 2017 by Spallina Ind.
+
 .data
 str: .space 160
 a: .space 32
